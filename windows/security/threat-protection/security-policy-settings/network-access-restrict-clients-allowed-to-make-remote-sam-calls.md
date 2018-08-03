@@ -19,7 +19,7 @@ ms.date: 07/27/2017
 -   Windows 8.1 with [KB 4102219](https://support.microsoft.com/en-us/help/4012219/march-2017-preview-of-monthly-quality-rollup-for-windows-8-1-and-windows-server-2012-r2) installed 
 -   Windows 7 with [KB 4012218](https://support.microsoft.com/en-us/help/4012218/march-2017-preview-of-monthly-quality-rollup-for-windows-7-sp1-and-windows-server-2008-r2-sp1) installed 
 -   Windows Server 2016
--   Windows Server 2012 R2 with[KB 4012219](https://support.microsoft.com/en-us/help/4012219/march-2017-preview-of-monthly-quality-rollup-for-windows-8-1-and-windows-server-2012-r2) installed
+-   Windows Server 2012 R2 with [KB 4012219](https://support.microsoft.com/en-us/help/4012219/march-2017-preview-of-monthly-quality-rollup-for-windows-8-1-and-windows-server-2012-r2) installed
 -   Windows Server 2012 with [KB 4012220](https://support.microsoft.com/en-us/help/4012220/march-2017-preview-of-monthly-quality-rollup-for-windows-server-2012) installed 
 -   Windows Server 2008 R2 with [KB 4012218](https://support.microsoft.com/en-us/help/4012218/march-2017-preview-of-monthly-quality-rollup-for-windows-7-sp1-and-windows-server-2008-r2-sp1) installed
 
